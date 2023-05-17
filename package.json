@@ -1,0 +1,27 @@
+{
+  "name": "salando-shopping-server",
+  "version": "1.0.0",
+  "description": "this is ecommarce website made with express, node,react, vite,mongodb, jwt, firebase",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "server",
+    "ecommerce",
+    "express",
+    "js",
+    "react",
+    "mongodb",
+    "crud"
+  ],
+  "author": "Sadman Sakib",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "jsonwebtoken": "^9.0.0",
+    "mongodb": "^5.5.0"
+  }
+}
